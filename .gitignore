@@ -1,13 +1,10 @@
-# Compiled Object files
+/arduino-src
 *.slo
 *.lo
 *.o
-
-# Compiled Dynamic libraries
 *.so
 *.dylib
-
-# Compiled Static libraries
 *.lai
 *.la
 *.a
+*.out
